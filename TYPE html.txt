@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Simple Website</title>
+</head>
+<body style="background-color: #ff0000;">
+  </body>
+</html>
